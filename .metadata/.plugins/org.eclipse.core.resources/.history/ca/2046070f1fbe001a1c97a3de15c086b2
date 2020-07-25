@@ -1,0 +1,17 @@
+package escola;
+
+import java.util.Date;
+
+public class Aluno extends Pessoa {
+	/** Atributo */
+	Date dataNascimento;
+	
+	/** Importa apenas 1 Turma para classe Aluno */
+	Turma turma;
+	
+	
+	/** Metodo */
+	void realizarAvaliacao() {
+		
+	}
+}

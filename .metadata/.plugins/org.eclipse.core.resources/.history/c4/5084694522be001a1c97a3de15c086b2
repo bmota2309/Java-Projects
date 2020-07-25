@@ -1,0 +1,35 @@
+package escolapoo;
+
+import java.util.Date;
+
+import escola.Aluno;
+import escola.Turma;
+
+public class AssociacaoParaUm {
+	public static void main(String[] args) {
+		/** Instanciando turma1 */
+		Turma turma1 = new Turma(); 
+		
+		turma1.setSigla("1º A");
+		turma1.setAno(1);
+		
+		
+		Aluno aluno1= new Aluno();
+		aluno1.setNome("João");
+		aluno1.setMatricula(201332);
+		aluno1.setDataNascimento(new Date());
+		aluno1.setTurma(turma1);
+		
+		Aluno aluno2 = new Aluno();
+		aluno2.setNome("José");
+		aluno2.setMatricula(987456);
+		aluno2.setDataNascimento(new Date());
+		aluno2.setTurma(turma1);
+		
+		
+		System.out.println("Dados do aluno 1: \n");
+		System.out.println(aluno1.getNome());
+		System.out.println(aluno1.getTurma().getSigla());
+	}
+
+}

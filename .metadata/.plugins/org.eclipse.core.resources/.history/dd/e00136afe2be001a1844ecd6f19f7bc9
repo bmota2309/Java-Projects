@@ -1,0 +1,8 @@
+package escolapoo;
+
+public class AssociacaoMuitosParaMuitos {	
+	public static void main(String[] args) {
+		
+	}
+
+}

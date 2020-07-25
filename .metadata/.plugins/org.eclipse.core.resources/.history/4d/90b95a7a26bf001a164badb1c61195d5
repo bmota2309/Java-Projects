@@ -1,0 +1,11 @@
+package soccer;
+
+public interface Monta {
+
+	private name;
+	
+	public String jogar() {
+		return name; 
+	}
+	
+}

@@ -1,0 +1,9 @@
+package soccer;
+
+public interface Monta implements Jogador{
+
+	public boolean jogar() {
+		return atividade = true;
+	}
+	
+}

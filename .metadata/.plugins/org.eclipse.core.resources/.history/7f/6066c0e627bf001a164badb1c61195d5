@@ -1,0 +1,9 @@
+package soccer;
+
+public interface Monta {
+
+	public boolean jogar() {
+		return atividade = true;
+	}
+	
+}

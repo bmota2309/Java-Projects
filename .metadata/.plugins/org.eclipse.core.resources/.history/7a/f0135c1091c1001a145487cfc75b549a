@@ -1,0 +1,12 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Area area1 = new Area();
+		double area = area1.calcArea(30, 200);
+		System.out.println(area);
+	}
+
+}

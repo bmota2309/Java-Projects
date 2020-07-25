@@ -1,0 +1,11 @@
+package escolapoo;
+
+import escola.Turma;
+
+public class AssociacaoParaUm {
+	public static void main(String[] args) {
+		/** Instanciando turma1 */
+		Turma turma1 = new Turma(); 
+	}
+
+}

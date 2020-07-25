@@ -1,0 +1,21 @@
+package soccer;
+
+public class Program {
+	public static void main(String[] args) {
+		
+		Jogador jg1 = new Jogador();
+		jg1.setName("Messi");
+		jg1.setAltura(171);
+		jg1.setIdade(27);
+		jg1.setDm(true);
+		jg1.machucar();
+		System.out.println("Jogador " + jg1.getName() + " tem "+jg1.getAltura() +". "+ jg1.machucar());
+		System.out.println(jg1.machucar());
+		
+		
+		
+	}
+	
+	
+	
+}

@@ -1,0 +1,13 @@
+package escola;
+
+public class Professor {
+	/** Atributos */
+	String formacaoAcademica;
+	double salario;
+	
+	/** Metodo */
+	void aplicarAvaliacao() {
+		
+	}
+
+}

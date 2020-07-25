@@ -1,0 +1,15 @@
+package soccer;
+import soccer.Monta;
+public class Program {
+	public static void main(String[] args) {
+		
+		Jogador jg1 = new Jogador();
+		jg1.setName("Messi");
+		System.out.println(jg1.getAtividade());
+		
+		
+	}
+	
+	
+	
+}

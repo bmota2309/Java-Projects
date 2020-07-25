@@ -1,0 +1,23 @@
+package escola;
+
+import java.util.ArrayList;
+
+public class Turma {
+	/** Atributos */
+	String sigla;
+	int ano;
+	
+	/**Importa lista de Alunos para a variavel alunos  */
+	ArrayList<Aluno> alunos;
+	
+	/**Importa lista de Professores para a variavel professores  */
+	ArrayList<Professor> professores;
+	
+	/**Importa lista de Professores para a variavel professores  */
+	ArrayList<Disciplina> disciplinas;
+	
+	/** Metodo */
+	void adicionarAluno() {
+		
+	}
+}

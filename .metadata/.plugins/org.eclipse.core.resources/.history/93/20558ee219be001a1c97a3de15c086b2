@@ -1,0 +1,13 @@
+package escola;
+
+public class Professor extends Pessoa {
+	/** Atributos */
+	String formacaoAcademica;
+	double salario;
+	
+	/** Metodo */
+	void aplicarAvaliacao() {
+		
+	}
+
+}

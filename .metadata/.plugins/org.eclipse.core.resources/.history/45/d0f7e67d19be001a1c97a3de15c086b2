@@ -1,0 +1,13 @@
+package escola;
+
+import java.util.Date;
+
+public class Aulo extends Pessoa {
+	/** Atributo */
+	Date dataNascimento;
+	
+	/** Metodo */
+	void realizarAvaliacao() {
+		
+	}
+}

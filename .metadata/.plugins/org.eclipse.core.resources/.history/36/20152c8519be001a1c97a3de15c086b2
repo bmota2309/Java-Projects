@@ -1,0 +1,12 @@
+package escola;
+
+public class Turma {
+	/** Atributos */
+	String sigla;
+	int ano;
+	
+	/** Metodo */
+	void adicionarAluno() {
+		
+	}
+}
