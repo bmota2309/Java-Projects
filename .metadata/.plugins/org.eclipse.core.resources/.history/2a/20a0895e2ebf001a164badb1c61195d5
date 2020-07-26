@@ -1,8 +1,0 @@
-package soccer;
-
-public abstract interface Monta{
-
-	public boolean jogar(int val);
-	public String machucar();
-	
-}

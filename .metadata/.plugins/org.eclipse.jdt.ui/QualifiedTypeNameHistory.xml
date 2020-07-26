@@ -13,7 +13,10 @@
 <fullyQualifiedTypeName name="javax.management.modelmbean.ModelMBeanNotificationInfo"/>
 <fullyQualifiedTypeName name="javax.crypto.ExemptionMechanismSpi"/>
 <fullyQualifiedTypeName name="com.sun.java_cup.internal.runtime.Scanner"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
-<fullyQualifiedTypeName name="java.util.Locale"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="entities.Account"/>
+<fullyQualifiedTypeName name="java.util.Locale"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="application.Program"/>
+<fullyQualifiedTypeName name="entities.Product"/>
 </qualifiedTypeNameHistroy>

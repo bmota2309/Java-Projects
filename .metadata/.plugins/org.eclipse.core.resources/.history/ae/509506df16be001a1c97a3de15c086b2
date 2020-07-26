@@ -1,9 +1,0 @@
-
-package javapoo;
-
-public class EscolaPoo{
-	
-	public static void main(String[] args) {
-		
-	}
-}

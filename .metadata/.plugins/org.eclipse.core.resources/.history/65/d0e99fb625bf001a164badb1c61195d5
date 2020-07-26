@@ -1,9 +1,0 @@
-package soccer;
-
-public interface Monta {
-
-	public String nomea() {
-		return name; 
-	}
-	
-}
